@@ -4,4 +4,4 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.SmallHeart)
 })
-basic.showIcon(IconNames.Happy)
+basic.showIcon(IconNames.Silly)
